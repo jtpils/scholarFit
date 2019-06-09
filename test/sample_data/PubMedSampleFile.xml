@@ -1,0 +1,1453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet SYSTEM "http://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+      <PMID Version="1">30516271</PMID>
+      <DateRevised>
+        <Year>2018</Year>
+        <Month>12</Month>
+        <Day>05</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Print">0012-9658</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <PubDate>
+              <Year>2018</Year>
+              <Month>Dec</Month>
+              <Day>05</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Ecology</Title>
+          <ISOAbbreviation>Ecology</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Spatial scale modulates the inference of metacommunity assembly processes.</ArticleTitle>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1002/ecy.2576</ELocationID>
+        <Abstract>
+          <AbstractText>The abundance and distribution of species across the landscape depend on the interaction between local, spatial and stochastic processes. However, empirical syntheses relating these processes to spatio-temporal patterns of structure in metacommunities remains elusive. One important reason for this lack of synthesis is that the relative importance of the core assembly processes (dispersal, selection and drift) critically depends on the spatial grain and extent over which communities are studied. To illustrate this, we simulated different aspects of community assembly on heterogeneous landscapes, including the strength of response to environmental heterogeneity (inherent to niche theory) versus dispersal and stochastic drift (inherent to neutral theory). We show that increasing spatial extent leads to increasing importance of niche selection, whereas increasing spatial grain leads to decreasing importance of niche selection. The strength of these scaling effects depended on environment configuration, dispersal capacity and niche breadth. By mapping the variation observed from the scaling effects in simulations, we could recreate the entire range of variation observed within and among empirical studies. This means that variation in the relative importance of assembly processes among empirical studies is largely scale dependent and cannot be directly compared. The scaling coefficient of the relative contribution of assembly processes, however, can be interpreted as a scale-integrative estimate to compare assembly processes across different regions and ecosystems. This emphasizes the necessity to consider spatial scaling as an explicit component of studies intended to infer the importance of community assembly processes. This article is protected by copyright. All rights reserved.</AbstractText>
+          <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Viana</LastName>
+            <ForeName>Duarte S</ForeName>
+            <Initials>DS</Initials>
+            <AffiliationInfo>
+              <Affiliation>German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chase</LastName>
+            <ForeName>Jonathan M</ForeName>
+            <Initials>JM</Initials>
+            <AffiliationInfo>
+              <Affiliation>German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Germany.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Institute for Computer Science, Martin Luther University Halle-Wittenberg, Halle (Saale), Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>05</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Ecology</MedlineTA>
+        <NlmUniqueID>0043541</NlmUniqueID>
+        <ISSNLinking>0012-9658</ISSNLinking>
+      </MedlineJournalInfo>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Community assembly</Keyword>
+        <Keyword MajorTopicYN="N">Dispersal</Keyword>
+        <Keyword MajorTopicYN="N">Ecological drift</Keyword>
+        <Keyword MajorTopicYN="N">Metacommunity</Keyword>
+        <Keyword MajorTopicYN="N">Neutral theory</Keyword>
+        <Keyword MajorTopicYN="N">Niche selection</Keyword>
+        <Keyword MajorTopicYN="N">Sampling grain</Keyword>
+        <Keyword MajorTopicYN="N">Spatial extent</Keyword>
+        <Keyword MajorTopicYN="N">Spatial scale</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>aheadofprint</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">30516271</ArticleId>
+        <ArticleId IdType="doi">10.1002/ecy.2576</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+      <PMID Version="1">30516272</PMID>
+      <DateRevised>
+        <Year>2018</Year>
+        <Month>12</Month>
+        <Day>05</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1541-0420</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <PubDate>
+              <Year>2018</Year>
+              <Month>Dec</Month>
+              <Day>05</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Biometrics</Title>
+          <ISOAbbreviation>Biometrics</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Linked Matrix Factorization.</ArticleTitle>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1111/biom.13010</ELocationID>
+        <Abstract>
+          <AbstractText>Several recent methods address the dimension reduction and decomposition of linked high-content data matrices. Typically, these methods consider one dimension, rows or columns, that is shared among the matrices. This shared dimension may represent common features measured for different sample sets (horizontal integration) or a common sample set with features from different platforms (vertical integration). We introduce an approach for simultaneous horizontal and vertical integration, Linked Matrix Factorization (LMF), for the general case where some matrices share rows (e.g., features) and some share columns (e.g., samples). Our motivating application is a cytotoxicity study with accompanying genomic and molecular chemical attribute data. The toxicity matrix (cell lines × chemicals) shares samples with a genotype matrix (cell lines × SNPs) and shares features with a molecular attribute matrix (chemicals × attributes). LMF gives a unified low-rank factorization of these three matrices, which allows for the decomposition of systematic variation that is shared and systematic variation that is specific to each matrix. This allows for efficient dimension reduction, exploratory visualization, and the imputation of missing data even when entire rows or columns are missing. We present theoretical results concerning the uniqueness, identifiability, and minimal parametrization of LMF, and evaluate it with extensive simulation studies. This article is protected by copyright. All rights reserved.</AbstractText>
+          <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>O'Connell</LastName>
+            <ForeName>Michael J</ForeName>
+            <Initials>MJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Statistics, Miami University, Oxford, OH 45056, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lock</LastName>
+            <ForeName>Eric F</ForeName>
+            <Initials>EF</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Biostatistics, University of Minnesota, Minneapolis, MN 55455, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>05</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Biometrics</MedlineTA>
+        <NlmUniqueID>0370625</NlmUniqueID>
+        <ISSNLinking>0006-341X</ISSNLinking>
+      </MedlineJournalInfo>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Data integration</Keyword>
+        <Keyword MajorTopicYN="N">Dimension reduction</Keyword>
+        <Keyword MajorTopicYN="N">Massive data sets</Keyword>
+        <Keyword MajorTopicYN="N">Missing data imputation</Keyword>
+        <Keyword MajorTopicYN="N">Principal components analysis</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2018</Year>
+          <Month>02</Month>
+          <Day>10</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2018</Year>
+          <Month>08</Month>
+          <Day>16</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2018</Year>
+          <Month>11</Month>
+          <Day>14</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>aheadofprint</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">30516272</ArticleId>
+        <ArticleId IdType="doi">10.1111/biom.13010</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+      <PMID Version="1">30516273</PMID>
+      <DateRevised>
+        <Year>2018</Year>
+        <Month>12</Month>
+        <Day>05</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Print">0012-9658</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <PubDate>
+              <Year>2018</Year>
+              <Month>Dec</Month>
+              <Day>05</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Ecology</Title>
+          <ISOAbbreviation>Ecology</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Temporal clustering of extreme climate events drives a regime shift in rocky intertidal biofilms.</ArticleTitle>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1002/ecy.2578</ELocationID>
+        <Abstract>
+          <AbstractText>Research on regime shifts has focused primarily on how changes in the intensity and duration of press disturbances precipitate natural systems into undesirable, alternative states. By contrast, the role of recurrent pulse perturbations, such as extreme climatic events, has been largely neglected, hindering our understanding of how historical processes regulate the onset of a regime shift. We performed field manipulations to evaluate whether combinations of extreme events of temperature and sediment deposition that differed in their degree of temporal clustering generated alternative states in rocky intertidal epilithic microphytobenthos (biofilms) on rocky shores. The likelihood of biofilms to shift from a vegetated to a bare state depended on the degree of temporal clustering of events, with biofilm biomass showing both states under a regime of non-clustered (60 days apart) perturbations while collapsing in the clustered (15 days apart) scenario. Our results indicate that time since the last perturbation can be an important predictor of collapse in systems exhibiting alternative states and that consideration of historical effects in studies of regime shifts may largely improve our understanding of ecosystem dynamics under climate change. This article is protected by copyright. All rights reserved.</AbstractText>
+          <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Dal Bello</LastName>
+            <ForeName>Martina</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biology, University of Pisa, CoNISMa, Via Derna 1, Pisa, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rindi</LastName>
+            <ForeName>Luca</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biology, University of Pisa, CoNISMa, Via Derna 1, Pisa, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Benedetti-Cecchi</LastName>
+            <ForeName>Lisandro</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biology, University of Pisa, CoNISMa, Via Derna 1, Pisa, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>05</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Ecology</MedlineTA>
+        <NlmUniqueID>0043541</NlmUniqueID>
+        <ISSNLinking>0012-9658</ISSNLinking>
+      </MedlineJournalInfo>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">abrupt changes</Keyword>
+        <Keyword MajorTopicYN="N">alternative states</Keyword>
+        <Keyword MajorTopicYN="N">biofilm</Keyword>
+        <Keyword MajorTopicYN="N">climate change</Keyword>
+        <Keyword MajorTopicYN="N">epilithic microphytobenthos</Keyword>
+        <Keyword MajorTopicYN="N">extreme events</Keyword>
+        <Keyword MajorTopicYN="N">regime shift</Keyword>
+        <Keyword MajorTopicYN="N">temporal clustering</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>aheadofprint</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">30516273</ArticleId>
+        <ArticleId IdType="doi">10.1002/ecy.2578</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+      <PMID Version="1">30516274</PMID>
+      <DateRevised>
+        <Year>2018</Year>
+        <Month>12</Month>
+        <Day>05</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Print">0012-9658</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <PubDate>
+              <Year>2018</Year>
+              <Month>Dec</Month>
+              <Day>05</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Ecology</Title>
+          <ISOAbbreviation>Ecology</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Multiple drivers of contrasting diversity-invasibility relationships at fine spatial grains.</ArticleTitle>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1002/ecy.2573</ELocationID>
+        <Abstract>
+          <AbstractText>The diversity-invasibility hypothesis and ecological theory predict that high-diversity communities should be less easily invaded than species-poor communities, but empirical evidence does not consistently support this prediction. While fine-scale experiments tend to yield the predicted negative association between diversity and invasibility, broad-scale observational surveys generally report a positive correlation. This conflicting pattern between experiments and observational studies is referred to as the invasion paradox, and is thought to arise because different processes control species composition at different spatial scales. Here, we test empirically the extent to which the strength and direction of published diversity-invasibility relationships depend on spatial scale and on the metrics used to measure invasibility. Using a meta-analytic framework, we explicitly separate the two components of spatial scale: grain and extent, by focusing on fine-grain studies that vary in extent. We find evidence of multiple drivers of the paradox. When we consider only fine-grain studies, we still observe conflicting patterns between experiments and observational studies. In contrast, when we examine studies that are conducted at both a fine grain and fine extent, there is broad overlap in effect sizes between experiments and observation, suggesting that comparing studies with similar extents resolves the paradox at local scales. However, we uncover systematic differences in the metrics used to measure invasibility between experiments, which use predominantly invader performance, and observational studies, which use mainly invader richness. When we consider studies with the same metric (i.e., invader performance), the contrasting associations between study types also disappears. It is not possible, at present, to fully disentangle the effect of spatial extent and metric on the paradox because both variables are systematically associated in different directions with study type. There is therefore an urgent need to conduct experiments and observational studies that incorporate the full range of variability in spatial extent and invasibility metric. This article is protected by copyright. All rights reserved.</AbstractText>
+          <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Smith</LastName>
+            <ForeName>Nicola S</ForeName>
+            <Initials>NS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Earth to Oceans Research Group, Department of Biological Sciences, Simon Fraser University, Burnaby, BC, V5A 1S6, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Côté</LastName>
+            <ForeName>Isabelle M</ForeName>
+            <Initials>IM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Earth to Oceans Research Group, Department of Biological Sciences, Simon Fraser University, Burnaby, BC, V5A 1S6, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>05</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Ecology</MedlineTA>
+        <NlmUniqueID>0043541</NlmUniqueID>
+        <ISSNLinking>0012-9658</ISSNLinking>
+      </MedlineJournalInfo>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">biotic resistance</Keyword>
+        <Keyword MajorTopicYN="N">diversity-invasibility hypothesis</Keyword>
+        <Keyword MajorTopicYN="N">invasibility metrics</Keyword>
+        <Keyword MajorTopicYN="N">invasion paradox</Keyword>
+        <Keyword MajorTopicYN="N">invasion susceptibility</Keyword>
+        <Keyword MajorTopicYN="N">meta-analysis</Keyword>
+        <Keyword MajorTopicYN="N">spatial scale</Keyword>
+        <Keyword MajorTopicYN="N">systematic review</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>aheadofprint</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">30516274</ArticleId>
+        <ArticleId IdType="doi">10.1002/ecy.2573</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+      <PMID Version="1">30516275</PMID>
+      <DateRevised>
+        <Year>2018</Year>
+        <Month>12</Month>
+        <Day>05</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Print">0012-9658</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <PubDate>
+              <Year>2018</Year>
+              <Month>Dec</Month>
+              <Day>05</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Ecology</Title>
+          <ISOAbbreviation>Ecology</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Belowground plant parts are crucial for comprehensively estimating total plant richness in herbaceous and woody habitats.</ArticleTitle>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1002/ecy.2575</ELocationID>
+        <Abstract>
+          <AbstractText>Most studies consider aboveground plant species richness as a representative biodiversity measure. This approach inevitably assumes that the partitioning of total plant species richness into above- and belowground components is constant or at least consistent within and across vegetation types. However, with studies considering belowground plant richness still scarce and completely absent along vegetation gradients, this assumption lacks experimental support. Novel DNA sequencing techniques allow economical, high-throughput species identification of belowground environmental samples, enabling the measurement of the contributions of both above- and belowground plant components to total plant richness. We investigated above- and belowground plant species richness in four vegetation types (birch forest, heath, low alpine tundra, high alpine tundra) at the scale of herbaceous plant neighborhoods (dm) using 454 sequencing of the chloroplast trnL (UAA) intron to determine the plant species richness of environmental root samples and combined it with aboveground data from vegetation surveys to obtain total plant species richness. We correlated the measured plant species richness components with each other and with their respective plant biomass components within and across vegetation types. Total plant species richness exceeded aboveground richness twice on average and by as much as three times in low alpine tundra, indicating that a significant fraction of belowground plant richness cannot be recorded aboveground. More importantly, no consistent relationship among richness components (above- and belowground) was found within or across vegetation types, indicating that aboveground richness alone cannot predict total plant richness in contrasting vegetation types. Finally, no consistent relationship between plant richness and the corresponding biomass component was found. Our results clearly show that aboveground plant richness alone is a poor estimator of total plant species richness within and across different vegetation types. Consequently, it is crucial to account for belowground plant richness in future plant ecological studies in order to validate currently accepted plant richness patterns, as well as to measure potential changes in plant community composition in a changing environment. This article is protected by copyright. All rights reserved.</AbstractText>
+          <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Träger</LastName>
+            <ForeName>Sabrina</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Botany, Institute of Ecology and Earth Sciences, University of Tartu, Lai 40, 51005, Tartu, Estonia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Biology, University of Regina, 3737 Wascana Parkway, Regina, SK, S4S 0A2, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Öpik</LastName>
+            <ForeName>Maarja</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Botany, Institute of Ecology and Earth Sciences, University of Tartu, Lai 40, 51005, Tartu, Estonia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Vasar</LastName>
+            <ForeName>Martti</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Botany, Institute of Ecology and Earth Sciences, University of Tartu, Lai 40, 51005, Tartu, Estonia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wilson</LastName>
+            <ForeName>Scott D</ForeName>
+            <Initials>SD</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biology, University of Regina, 3737 Wascana Parkway, Regina, SK, S4S 0A2, Canada.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Climate Impacts Research Centre, Department of Ecology and Environmental Science, Umeå University, 981 07, Abisko, Sweden.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>05</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Ecology</MedlineTA>
+        <NlmUniqueID>0043541</NlmUniqueID>
+        <ISSNLinking>0012-9658</ISSNLinking>
+      </MedlineJournalInfo>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">454 sequencing</Keyword>
+        <Keyword MajorTopicYN="N">above- and belowground plant richness</Keyword>
+        <Keyword MajorTopicYN="N">next-generation sequencing</Keyword>
+        <Keyword MajorTopicYN="N">plant biomass</Keyword>
+        <Keyword MajorTopicYN="N">root identification</Keyword>
+        <Keyword MajorTopicYN="N">trnL (UAA) intron</Keyword>
+        <Keyword MajorTopicYN="N">vegetation surveys</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>aheadofprint</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">30516275</ArticleId>
+        <ArticleId IdType="doi">10.1002/ecy.2575</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+      <PMID Version="1">30516276</PMID>
+      <DateRevised>
+        <Year>2018</Year>
+        <Month>12</Month>
+        <Day>05</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1467-8624</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <PubDate>
+              <Year>2018</Year>
+              <Month>Dec</Month>
+              <Day>05</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Child development</Title>
+          <ISOAbbreviation>Child Dev</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Temperamental Emotionality Attributes as Antecedents of Children's Social Information Processing.</ArticleTitle>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1111/cdev.13191</ELocationID>
+        <Abstract>
+          <AbstractText>This study examined temperament dimensions of emotion as precursors of children's social information processing (SIP) of stressful peer events. Two hundred and forty-three preschool children (M = 4.60 years) and their primary caregivers participated in two measurement occasions spaced 2 years apart. Observations of temperamental anger, fearful distress, positive affect, and effortful control were assessed in multiple laboratory tasks across two visits at Wave 1. SIP assessments from vignettes of peer challenges were repeated across two waves and included: eye tracking measures of attention to peer emotion displays, hostile attribution bias, hostile solutions, and subjective distress. Findings from structural equation models with inclusion of autoregressive controls indicated that effortful control, fear, and anger predicted subsequent changes in specific SIP dimensions.</AbstractText>
+          <CopyrightInformation>© 2018 Society for Research in Child Development.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Davies</LastName>
+            <ForeName>Patrick T</ForeName>
+            <Initials>PT</Initials>
+            <AffiliationInfo>
+              <Affiliation>University of Rochester.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Coe</LastName>
+            <ForeName>Jesse L</ForeName>
+            <Initials>JL</Initials>
+            <AffiliationInfo>
+              <Affiliation>University of Rochester.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hentges</LastName>
+            <ForeName>Rochelle F</ForeName>
+            <Initials>RF</Initials>
+            <AffiliationInfo>
+              <Affiliation>University of Rochester.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sturge-Apple</LastName>
+            <ForeName>Melissa L</ForeName>
+            <Initials>ML</Initials>
+            <AffiliationInfo>
+              <Affiliation>University of Rochester.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ripple</LastName>
+            <ForeName>Michael T</ForeName>
+            <Initials>MT</Initials>
+            <AffiliationInfo>
+              <Affiliation>University of Rochester.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>R01 HD065425</GrantID>
+            <Agency>Eunice Kennedy Shriver National Institute of Child Health and Human Development</Agency>
+            <Country/>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>05</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Child Dev</MedlineTA>
+        <NlmUniqueID>0372725</NlmUniqueID>
+        <ISSNLinking>0009-3920</ISSNLinking>
+      </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>aheadofprint</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">30516276</ArticleId>
+        <ArticleId IdType="doi">10.1111/cdev.13191</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+      <PMID Version="1">30516277</PMID>
+      <DateRevised>
+        <Year>2018</Year>
+        <Month>12</Month>
+        <Day>05</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1750-3841</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <PubDate>
+              <Year>2018</Year>
+              <Month>Dec</Month>
+              <Day>05</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of food science</Title>
+          <ISOAbbreviation>J. Food Sci.</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>The Modification of In Situ SiOx Chitosan Coatings by ZnO/TiO<sub>2</sub> NPs and Its Preservation Properties to Silver Carp Fish Balls.</ArticleTitle>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1111/1750-3841.14381</ELocationID>
+        <Abstract>
+          <AbstractText>The composite chitosan coatings were prepared and characterized to evaluate their preservation properties for silver carp fish balls, and the microstructures and physicochemical properties of the coatings were improved by in situ nano silicon oxide (SiOx) and zinc oxide/titania (ZnO/TiO<sub>2</sub> ) nano-particles (NPs). In the chitosan coatings, when the chitosan combines with NPs by chemical bonds, the crystal lattice is slightly changed due to the modification of NPs. The chitosan coatings modified by NPs showed few cracks, among which sodium hexametaphosphate (SHMP) modified ZnO/TiO<sub>2</sub> /SiOx-chitosan (ZTS-CS) coating is proved to be the optimal one. The change of the freshness index and the texture of the fish balls are delayed by the coatings due to their gas permeability and antibacterial properties. The preservation properties of the chitosan coatings for Silver Carp fish balls are improved by in situ SiOx, and further improved by co-modification of ZnO/TiO<sub>2</sub> NPs. Furthermore, the surface modification of ZnO/TiO<sub>2</sub> NPs enhances the preservation properties of the chitosan coating. PRACTICAL APPLICATION: In our previous study, in situ SiOx was found to improve antibacterial and preservation properties of chitosan coating, leading to extending shelf time of Sciaenops ocellatus. In order to further improve properties of chitosan coatings, we added nontoxic edible nano materials to the in situ SiOx chitosan coatings. In situ SiOx modified by ZnO/TiO<sub>2</sub> NPs were synthesized, measured, and characterized in this study, and were applied for the preservation of silver carp fish balls. It could serve as a potential preservation material due to the increasing mechanical preservation properties. Through the results, the ZnO/TiO<sub>2</sub> /SiOx-chitosan (ZTS-CS) coatings have potential as application in the food industry to guarantee food quality and extend shelf life of products.</AbstractText>
+          <CopyrightInformation>© 2018 Institute of Food Technologists®.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Wei</LastName>
+            <ForeName>Xu-Qing</ForeName>
+            <Initials>XQ</Initials>
+            <AffiliationInfo>
+              <Affiliation>College of Food Science and Engineering, Bohai Univ., Jinzhou, Liaoning, 121013, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>National &amp; Local Joint Engineering Research Center of Storage, Processing and Safety Control Technology for Fresh Agricultural and Aquatic Products, Jinzhou, Liaoning, 121013, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Xue-Peng</ForeName>
+            <Initials>XP</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0002-2445-7158</Identifier>
+            <AffiliationInfo>
+              <Affiliation>College of Food Science and Engineering, Bohai Univ., Jinzhou, Liaoning, 121013, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>National &amp; Local Joint Engineering Research Center of Storage, Processing and Safety Control Technology for Fresh Agricultural and Aquatic Products, Jinzhou, Liaoning, 121013, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wu</LastName>
+            <ForeName>Chao-Ling</ForeName>
+            <Initials>CL</Initials>
+            <AffiliationInfo>
+              <Affiliation>College of Food Science and Engineering, Bohai Univ., Jinzhou, Liaoning, 121013, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Gansu Jinwei Environmental Protection Technology Co., Ltd, Lanzhou, Gansu, 730070, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yi</LastName>
+            <ForeName>Shu-Min</ForeName>
+            <Initials>SM</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0002-7934-1355</Identifier>
+            <AffiliationInfo>
+              <Affiliation>College of Food Science and Engineering, Bohai Univ., Jinzhou, Liaoning, 121013, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhong</LastName>
+            <ForeName>Ke-Li</ForeName>
+            <Initials>KL</Initials>
+            <AffiliationInfo>
+              <Affiliation>College of Food Science and Engineering, Bohai Univ., Jinzhou, Liaoning, 121013, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>National &amp; Local Joint Engineering Research Center of Storage, Processing and Safety Control Technology for Fresh Agricultural and Aquatic Products, Jinzhou, Liaoning, 121013, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sun</LastName>
+            <ForeName>Tong</ForeName>
+            <Initials>T</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0003-1403-0609</Identifier>
+            <AffiliationInfo>
+              <Affiliation>College of Food Science and Engineering, Bohai Univ., Jinzhou, Liaoning, 121013, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>National &amp; Local Joint Engineering Research Center of Storage, Processing and Safety Control Technology for Fresh Agricultural and Aquatic Products, Jinzhou, Liaoning, 121013, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Jian-Rong</ForeName>
+            <Initials>JR</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0002-7118-0489</Identifier>
+            <AffiliationInfo>
+              <Affiliation>College of Food Science and Engineering, Bohai Univ., Jinzhou, Liaoning, 121013, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>National &amp; Local Joint Engineering Research Center of Storage, Processing and Safety Control Technology for Fresh Agricultural and Aquatic Products, Jinzhou, Liaoning, 121013, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>31371858</GrantID>
+            <Agency>The National Natural Science Foundation of China</Agency>
+            <Country/>
+          </Grant>
+          <Grant>
+            <GrantID>2016YFD0400805</GrantID>
+            <Agency>Key Techniques of Green Manufacturing of Preservatives and Antioxidants</Agency>
+            <Country/>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>05</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Food Sci</MedlineTA>
+        <NlmUniqueID>0014052</NlmUniqueID>
+        <ISSNLinking>0022-1147</ISSNLinking>
+      </MedlineJournalInfo>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">ZnO/TiO2</Keyword>
+        <Keyword MajorTopicYN="N">chitosan</Keyword>
+        <Keyword MajorTopicYN="N">coating</Keyword>
+        <Keyword MajorTopicYN="N">fish balls</Keyword>
+        <Keyword MajorTopicYN="N">in situ SiOx</Keyword>
+        <Keyword MajorTopicYN="N">preservation</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2018</Year>
+          <Month>05</Month>
+          <Day>18</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2018</Year>
+          <Month>09</Month>
+          <Day>26</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2018</Year>
+          <Month>10</Month>
+          <Day>02</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>aheadofprint</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">30516277</ArticleId>
+        <ArticleId IdType="doi">10.1111/1750-3841.14381</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+      <PMID Version="1">30516279</PMID>
+      <DateRevised>
+        <Year>2018</Year>
+        <Month>12</Month>
+        <Day>05</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Print">0012-9658</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <PubDate>
+              <Year>2018</Year>
+              <Month>Dec</Month>
+              <Day>05</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Ecology</Title>
+          <ISOAbbreviation>Ecology</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Mass medusae release and temporal reproductive segregation among the three Red Sea fire coral species.</ArticleTitle>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1002/ecy.2581</ELocationID>
+        <Abstract>
+          <AbstractText>The reproductive patterns of coral communities with many of the same species can vary geographically (Shlesinger and Loya 1985), raising interesting questions of natural selection and ecology. Species of the colonial cnidarian genus Millepora have received the common name "fire corals" due to the painful sting inflicted to humans by the release of venom from their stinging cells. Despite their popular name and some similarities with scleractinian stony corals of the class Anthozoa, fire corals belong to a different class of organisms (i.e., Hydrozoa) and are therefore known as hydrocorals. The genus Millepora has a circum-tropical distribution, incorporating about 15 known species (Razak and Hoeksema 2003, Lewis 2006, Amaral et al. 2008, Ruiz-Ramos et al. 2014, de Souza et al. 2017). In some localities milleporids may be rare while in others they may be abundant and serve as important reef-framework builders (Lewis 2006, Amaral et al. 2008). This article is protected by copyright. All rights reserved.</AbstractText>
+          <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Shlesinger</LastName>
+            <ForeName>Tom</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Zoology, The George S. Wise, Faculty of Life Sciences, Tel-Aviv University, 69978, Tel-Aviv, Israel.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Loya</LastName>
+            <ForeName>Yossi</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Zoology, The George S. Wise, Faculty of Life Sciences, Tel-Aviv University, 69978, Tel-Aviv, Israel.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>05</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Ecology</MedlineTA>
+        <NlmUniqueID>0043541</NlmUniqueID>
+        <ISSNLinking>0012-9658</ISSNLinking>
+      </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>aheadofprint</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">30516279</ArticleId>
+        <ArticleId IdType="doi">10.1002/ecy.2581</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+      <PMID Version="1">30516280</PMID>
+      <DateRevised>
+        <Year>2018</Year>
+        <Month>12</Month>
+        <Day>05</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1600-079X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <PubDate>
+              <Year>2018</Year>
+              <Month>Dec</Month>
+              <Day>05</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of pineal research</Title>
+          <ISOAbbreviation>J. Pineal Res.</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Melatonin attenuates myocardial ischemia reperfusion injury via improving mitochondrial fusion/mitophagy and activating the AMPK-OPA1 signaling pathways.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>e12542</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1111/jpi.12542</ELocationID>
+        <Abstract>
+          <AbstractText>Optic atrophy 1 (OPA1)-related mitochondrial fusion and mitophagy are vital to sustain mitochondrial homeostasis under stress conditions. However, no study has confirmed whether OPA1-related mitochondrial fusion/mitophagy is activated by melatonin and, consequently, attenuates cardiomyocyte death and mitochondrial stress in the setting of cardiac ischemia reperfusion (I/R) injury. Our results indicated that OPA1, mitochondrial fusion and mitophagy were significantly repressed by I/R injury, accompanied by infarction area expansion, heart dysfunction, myocardial inflammation, and cardiomyocyte oxidative stress. However, melatonin treatment maintained myocardial function and cardiomyocyte viability, and these effects were highly dependent on OPA1-related mitochondrial fusion/mitophagy. At the molecular level, OPA1-related mitochondrial fusion/mitophagy, which was normalized by melatonin, substantially rectified the excessive mitochondrial fission, promoted mitochondria energy metabolism, sustained mitochondrial function and blocked cardiomyocyte caspase-9-involved mitochondrial apoptosis. However, genetic approaches with cardiac-specific knockout of OPA1 abolished the beneficial effects of melatonin on cardiomyocyte survival and mitochondrial homeostasis in vivo and in vitro. Furthermore, we demonstrated that melatonin affected OPA1 stabilization via the AMPK signaling pathway and that blockade of AMPK repressed OPA1 expression and compromised the cardioprotective action of melatonin. Overall, our results confirm that OPA1-related mitochondrial fusion/mitophagy is actually modulated by melatonin in the setting of cardiac I/R injury. Moreover, manipulation of the AMPK-OPA1-mitochondrial fusion/mitophagy axis via melatonin may be a novel therapeutic approach to reduce cardiac I/R injury. This article is protected by copyright. All rights reserved.</AbstractText>
+          <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Ying</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Cardiology, Chinese PLA General Hospital, Beijing, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Yue</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Cardiology, Shanghai Ninth People's Hospital, Shanghai Jiaotong University School of Medicine, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Xu</LastName>
+            <ForeName>Junnan</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Organ Transplant Institute of People's Liberation Army, Beijing Key Laboratory of Immunology Regulatory and Organ Transplantation, the 309th Hospital of People's Liberation Army.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tian</LastName>
+            <ForeName>Feng</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Cardiology, Chinese PLA General Hospital, Beijing, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hu</LastName>
+            <ForeName>Shunying</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Cardiology, Chinese PLA General Hospital, Beijing, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chen</LastName>
+            <ForeName>Yundai</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Cardiology, Chinese PLA General Hospital, Beijing, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fu</LastName>
+            <ForeName>Zhenhong</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Cardiology, Chinese PLA General Hospital, Beijing, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>05</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>J Pineal Res</MedlineTA>
+        <NlmUniqueID>8504412</NlmUniqueID>
+        <ISSNLinking>0742-3098</ISSNLinking>
+      </MedlineJournalInfo>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Melatonin</Keyword>
+        <Keyword MajorTopicYN="N">OPA1 and AMPK signaling pathway</Keyword>
+        <Keyword MajorTopicYN="N">mitochondrial fusion</Keyword>
+        <Keyword MajorTopicYN="N">mitophagy</Keyword>
+        <Keyword MajorTopicYN="N">myocardial ischemia reperfusion injury</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>aheadofprint</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">30516280</ArticleId>
+        <ArticleId IdType="doi">10.1111/jpi.12542</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+      <PMID Version="1">30516281</PMID>
+      <DateRevised>
+        <Year>2018</Year>
+        <Month>12</Month>
+        <Day>05</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1096-9861</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <PubDate>
+              <Year>2018</Year>
+              <Month>Dec</Month>
+              <Day>05</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>The Journal of comparative neurology</Title>
+          <ISOAbbreviation>J. Comp. Neurol.</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Atlas of the telencephalon based on cytoarchitecture, neurochemical markers, and gene expressions in Rhinogobius flumineus [Mizuno, 1960].</ArticleTitle>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1002/cne.24547</ELocationID>
+        <Abstract>
+          <AbstractText>Gobiida is a basal subseries of percomorphs in teleost fishes, holding a useful position for comparisons with other orders of Percomorpha as well as other cohort of teleosts. Here, we describe a telencephalic atlas of a Gobiida species Rhinogobius flumineus (Mizuno, Memoirs of the College of Science, University of Kyoto, Series B: Biology, 1960; 27, 3), based on cytoarchitectural observations, combined with analyses of the distribution patterns of neurochemical markers and transcription factors. The telencephalon of R. flumineus shows a number of features distinct from those of other teleosts. Among others, the followings were of special note. (a) The lateral part of dorsal telencephalon (Dl), which is known as a visual center in other teleosts, is composed of as many as seven regions, some of which are conspicuous, circumscribed by cell plates. These subdivisions of the Dl can be differentiated clearly by differential soma size and color with Nissl-staining, and distribution patterns of neural markers. (b) Cell populations continuous with the ventral region of dorsal part of ventral telencephalon (vVd) exhibit extensive dimension. Especially, portion 1 of the central part of ventral telencephalon appears to represent a cell population laterally translocated from the vVd, forming a large cluster of small cells that penetrate deep into the central part of dorsal telencephalon. (c) The magnocellular subdivision of dorsal part of dorsal telencephalon (Ddmg) contains not only large cells but also vglut2a-positive clusters of small cells that cover a wide range of the caudal Ddmg. Such clusters of small cells have not been observed in the Ddmg of other teleosts.</AbstractText>
+          <CopyrightInformation>© 2018 Wiley Periodicals, Inc.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Kawaguchi</LastName>
+            <ForeName>Masahumi</ForeName>
+            <Initials>M</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0002-0226-1509</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Anatomy and Neuroscience, Graduate School of Medicine and Pharmaceutical Sciences, University of Toyama, Toyama, Japan.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Center for Marine Environmental Studies, Ehime University, Matsuyama, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hagio</LastName>
+            <ForeName>Hanako</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Graduate School of Bioagricultural Sciences, Nagoya University, Nagoya, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yamamoto</LastName>
+            <ForeName>Naoyuki</ForeName>
+            <Initials>N</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0001-8705-6936</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Graduate School of Bioagricultural Sciences, Nagoya University, Nagoya, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Matsumoto</LastName>
+            <ForeName>Koji</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Ehime University Senior High School, Matsuyama, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nakayama</LastName>
+            <ForeName>Kei</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Center for Marine Environmental Studies, Ehime University, Matsuyama, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Akazome</LastName>
+            <ForeName>Yasuhisa</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Anatomy, St. Marianna University School of Medicine, Kawasaki, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Izumi</LastName>
+            <ForeName>Hironori</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Molecular Genetics Research, Life Science Research Center, University of Toyama, Toyama, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tsuneoka</LastName>
+            <ForeName>Yousuke</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Anatomy, School of Medicine, Toho University, Tokyo, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Suto</LastName>
+            <ForeName>Fumikazu</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>National Institute of Neuroscience, National Center of Neurology and Psychiatry, Kodaira, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Murakami</LastName>
+            <ForeName>Yasunori</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Graduate School of Science and Engineering, Ehime University, Matsuyama, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ichijo</LastName>
+            <ForeName>Hiroyuki</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Anatomy and Neuroscience, Graduate School of Medicine and Pharmaceutical Sciences, University of Toyama, Toyama, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>140434</GrantID>
+            <Agency>Grant for Basic Science Research Projects from The Sumitomo Foundation</Agency>
+            <Country/>
+          </Grant>
+          <Grant>
+            <GrantID>JP26640009</GrantID>
+            <Agency>JSPS KAKENHI</Agency>
+            <Country/>
+          </Grant>
+          <Grant>
+            <GrantID>JP23657149, JP18K06462, and JP15K18335</GrantID>
+            <Agency>JSPS KAKENHI</Agency>
+            <Country/>
+          </Grant>
+          <Grant>
+            <GrantID>27-11</GrantID>
+            <Agency>Asahi Glass Foundation</Agency>
+            <Country/>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>05</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Comp Neurol</MedlineTA>
+        <NlmUniqueID>0406041</NlmUniqueID>
+        <ISSNLinking>0021-9967</ISSNLinking>
+      </MedlineJournalInfo>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">AB_10000320</Keyword>
+        <Keyword MajorTopicYN="N">Gobiida</Keyword>
+        <Keyword MajorTopicYN="N">RRID: AB_221448</Keyword>
+        <Keyword MajorTopicYN="N">brain atlas</Keyword>
+        <Keyword MajorTopicYN="N">in situ hybridization</Keyword>
+        <Keyword MajorTopicYN="N">next-generation sequencing method</Keyword>
+        <Keyword MajorTopicYN="N">telencephalon</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2017</Year>
+          <Month>07</Month>
+          <Day>13</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2018</Year>
+          <Month>09</Month>
+          <Day>18</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2018</Year>
+          <Month>09</Month>
+          <Day>23</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>aheadofprint</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">30516281</ArticleId>
+        <ArticleId IdType="doi">10.1002/cne.24547</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+      <PMID Version="1">30516284</PMID>
+      <DateRevised>
+        <Year>2018</Year>
+        <Month>12</Month>
+        <Day>05</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1932-8737</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <PubDate>
+              <Year>2018</Year>
+              <Month>Dec</Month>
+              <Day>05</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Clinical cardiology</Title>
+          <ISOAbbreviation>Clin Cardiol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Comment on "Transcatheter Aortic Valve Replacement in Patients with Pure Native Aortic Valve Regurgitation: A Systematic Review and Meta-analysis".</ArticleTitle>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1002/clc.23127</ELocationID>
+        <Abstract>
+          <AbstractText>The timely publication by Haddad et al. entitled "Transcatheter Aortic Valve Replacement in Patients with Pure Native Aortic Valve Regurgitation: A Systematic Review and Meta-analysis" in the journal Clinical Cardiology addresses one of the topics which is receiving increasing attention in cardiovascular intervention field [1].</AbstractText>
+          <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Shoar</LastName>
+            <ForeName>Saeed</ForeName>
+            <Initials>S</Initials>
+            <Identifier Source="ORCID">https://orcid.org/0000-0002-7000-0511</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Clinical Research Scholar and Scientist, Scientific Writing Corporation, Houston, TX.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Medicine, Tehran University of Medical Science, Tehran, Iran.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Naderan</LastName>
+            <ForeName>Mohammad</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Medicine, Tehran University of Medical Science, Tehran, Iran.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hosseini</LastName>
+            <ForeName>Fatemeh</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Medicine, Isfahan University of Medical Sciences, Isfahan, Iran.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shoar</LastName>
+            <ForeName>Nasrin</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Medicine, Kashan University of Medical Sciences, Kashan, Iran.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016422">Letter</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>05</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Clin Cardiol</MedlineTA>
+        <NlmUniqueID>7903272</NlmUniqueID>
+        <ISSNLinking>0160-9289</ISSNLinking>
+      </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2018</Year>
+          <Month>11</Month>
+          <Day>11</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2018</Year>
+          <Month>11</Month>
+          <Day>13</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>aheadofprint</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">30516284</ArticleId>
+        <ArticleId IdType="doi">10.1002/clc.23127</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>
